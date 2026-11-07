@@ -1,0 +1,16 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE / he dieu hanh
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# San pham build / dong goi
+dist/
+build/
+*.zip
